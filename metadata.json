@@ -4,7 +4,7 @@
   "author": "Akachi Ugwa",
   "summary": "Manages the installation ssh package and its configurations",
   "license": "Apache-2.0",
-  "source": "https://github.com/dugwa/puppet-ssh",
+  "source": "https://github.com/dugwa/puppet-ssh.git",
   "project_page": "https://github.com/dugwa/puppet-ssh",
   "issues_url": "https://github.com/dugwa/puppet-ssh/issues",
   "dependencies": [
